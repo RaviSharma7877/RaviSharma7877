@@ -1,17 +1,16 @@
-
-
+![logo](https://github.com/RaviSharma7877/RaviSharma7877/blob/main/Web%20Developer.png)
 <h1 align="center">Hi 👋, I'm Ravi Sharma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisharma7877&label=Profile%20views&color=0e75b6&style=flat" alt="RaviSharma7877" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisharma7877&label=Profile%20views&color=0e75b6&style=flat" alt="ravisharma7877" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravisharma7877" alt="ravisharma7877" /></a> </p>
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://64959c1288f48632807059b5--admirable-gingersnap-3294bd.netlify.app/](https://64959c1288f48632807059b5--admirable-gingersnap-3294bd.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://RaviSharma7877.github.io](https://RaviSharma7877.github.io)
 
 - 💬 Ask me about **java, mysql, jpql. hybernet**
 
