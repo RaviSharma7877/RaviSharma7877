@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://RaviSharma7877.github.io](https://RaviSharma7877.github.io)
 
+- 📝 My Linkedin [https://www.linkedin.com/in/ravi-sharma-816116253/](https://www.linkedin.com/in/ravi-sharma-816116253/)
+
 - 💬 Ask me about **java, mysql, jpql, hybernet**
 
 - 📫 How to reach me **sraa7877@gmail.com**
