@@ -1,4 +1,5 @@
-[![MasterHead](https://i.makeagif.com/media/3-04-2020/5ef9UQ.gif)](https://ravisharma.io)
+
+<img align="" alt="coding" width="100%" height="400" src="https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif">
 <h1 align="center">Hi 👋, I'm Ravi Sharma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
