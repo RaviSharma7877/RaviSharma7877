@@ -1,5 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif))](https://ravisharma7877.github.io/RaviSharma7877/)
 <h1 align="center">Hi 👋, I'm Ravi Sharma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<img align="roght" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisharma7877&label=Profile%20views&color=0e75b6&style=flat" alt="ravisharma7877" /> </p>
 
