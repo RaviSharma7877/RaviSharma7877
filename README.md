@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisharma7877&label=Profile%20views&color=0e75b6&style=flat" alt="ravisharma7877" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravisharma7877" alt="ravisharma7877" /></a> </p>
+
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/RaviSharma7877/Ecommerce)
 
@@ -21,6 +21,8 @@
 - 📫 How to reach me **sraa7877@gmail.com**
 
 - 📄 Know about my experiences [https://64959c1288f48632807059b5--admirable-gingersnap-3294bd.netlify.app/Ravi-Sharma-Resume.pdf](https://64959c1288f48632807059b5--admirable-gingersnap-3294bd.netlify.app/Ravi-Sharma-Resume.pdf)
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravisharma7877" alt="ravisharma7877" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
